@@ -19,7 +19,7 @@ class _SplashViewState extends State<SplashView> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    _loadImage('image/splash.png');
+    _loadImage('assets/image/splash.png');
 
     _toOnBording();
   }
