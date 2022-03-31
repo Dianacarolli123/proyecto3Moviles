@@ -19,7 +19,7 @@ class HomeView extends StatelessWidget {
                   height: 150,
                   decoration: const BoxDecoration(
                     image: DecorationImage(
-                        image: AssetImage('image/splash.png')),
+                        image: AssetImage('assets/image/splash.png')),
                   ),
                 ),
                 Container(

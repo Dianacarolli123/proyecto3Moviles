@@ -31,7 +31,7 @@ class _RegistroState extends State<Registro> {
             padding: const EdgeInsets.only(left: 90),
             height: 60,
             width: 170,
-            child: Image.asset('image/splash.png'),
+            child: Image.asset('assets/image/splash.png'),
           )
         ],
         backgroundColor: ColorsSelect.txtBoHe,

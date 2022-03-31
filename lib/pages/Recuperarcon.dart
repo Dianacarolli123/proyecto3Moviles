@@ -28,7 +28,7 @@ class _RecuperarPageState extends State<RecuperarPage> {
             padding: const EdgeInsets.only(left: 30),
             height: 5,
             width: 100,
-            child: Image.asset('image/splash.png'),
+            child: Image.asset('assets/image/splash.png'),
           )
         ],
         backgroundColor: ColorsSelect.txtBoHe,

@@ -15,27 +15,27 @@ class _OnBoardingState extends State<OnBoarding> {
     {
       "text": "ESPARCIMIENTO",
       "text1": "Brindamos todos los servicios para consentir a tu mascota",
-      "image": "image/B1.png",
+      "image": "assets/image/B1.png",
     },
     {
       "text": "ADOPCIÓN",
       "text1": "Brindamos todos los servicios para consentir a tu mascota",
-      "image": "image/B2.png",
+      "image": "assets/image/B2.png",
     },
     {
       "text": "HOSPITALIDAD",
       "text1": "Brindamos todos los servicios para consentir a tu mascota",
-      "image": "image/B3.png",
+      "image": "assets/image/B3.png",
     },
     {
       "text": "VETERINARIA",
       "text1": "Brindamos todos los servicios para consentir a tu mascota",
-      "image": "image/B4.png",
+      "image": "assets/image/B4.png",
     },
     {
       "text": "TIENDA",
       "text1": "Brindamos todos los servicios para consentir a tu mascota",
-      "image": "image/B5.png",
+      "image": "assets/image/B5.png",
     }
   ];
   @override
